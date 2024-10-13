@@ -42,5 +42,6 @@ If the installation was successful, you should be able to run the following comm
     $ node index.js
 
 ## Screenshot
-![Alt text]([/relative/path/to/img.jpg](https://github.com/johndianus/nodejs_video_stream/blob/main/screen_shot.jpg)?raw=true "Video Streaming")
+![Screenshot](https://github.com/johndianus/nodejs_video_stream/blob/main/screen_shot.jpg)
+
 
